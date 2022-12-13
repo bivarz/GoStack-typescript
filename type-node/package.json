@@ -23,7 +23,7 @@
     "date-fns": "^2.15.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.21.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uuidv4": "^6.2.0"
   }
 }
